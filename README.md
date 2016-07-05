@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Hi humans!
+
+I've had some changes in program.
+
+find them yourself !!!:))
